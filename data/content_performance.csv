@@ -1,81 +1,71 @@
 post_id,topic,format,post_time,likes,shares,saves,comments,retention_rate
-1,Friendship,Long,Night,4229,242,321,279,0.51
-2,Loneliness,Long,Morning,2875,108,200,96,0.85
-3,Self Improvement,Long,Evening,1482,668,626,62,0.32
-4,Friendship,Long,Night,909,217,1142,233,0.83
-5,Career Stress,Long,Night,4944,140,719,121,0.48
-6,Self Improvement,Long,Afternoon,4613,413,1012,283,0.38
-7,Self Improvement,Long,Evening,3948,161,1159,131,0.75
-8,Friendship,Long,Evening,4979,63,210,133,0.71
-9,Dating,Long,Morning,863,129,272,62,0.87
-10,Career Stress,Short,Evening,2198,682,1000,126,0.78
-11,Friendship,Short,Morning,3645,637,947,5,0.82
-12,Career Stress,Long,Evening,3943,596,147,243,0.48
-13,Career Stress,Long,Afternoon,1695,634,37,294,0.42
-14,Self Improvement,Long,Evening,3504,429,585,100,0.79
-15,Loneliness,Long,Morning,3963,431,589,130,0.82
-16,Career Stress,Long,Morning,2053,113,705,122,0.94
-17,Mental Health,Long,Afternoon,4859,263,645,52,0.57
-18,Self Improvement,Long,Evening,1491,236,873,93,0.54
-19,Dating,Long,Evening,3781,121,981,241,0.8
-20,Loneliness,Short,Afternoon,3657,519,174,276,0.52
-21,Mental Health,Long,Evening,1836,482,509,193,0.9
-22,Mental Health,Short,Evening,3896,108,804,196,0.86
-23,Dating,Long,Morning,3199,162,1147,73,0.58
-24,Loneliness,Long,Evening,3352,347,265,282,0.79
-25,Self Improvement,Short,Evening,898,715,1082,251,0.79
-26,Social Anxiety,Long,Afternoon,2360,172,778,80,0.37
-27,Loneliness,Short,Afternoon,4297,729,557,158,0.89
-28,Dating,Long,Night,4937,690,940,148,0.63
-29,Mental Health,Long,Morning,1054,170,427,90,0.84
-30,Self Improvement,Short,Evening,3674,589,544,189,0.51
-31,Loneliness,Long,Evening,1907,407,847,289,0.88
-32,Social Anxiety,Short,Night,2977,286,922,224,0.55
-33,Social Anxiety,Long,Evening,1933,513,55,73,0.31
-34,Career Stress,Short,Morning,3710,401,704,51,0.89
-35,Career Stress,Short,Night,402,144,39,98,0.36
-36,Friendship,Long,Morning,3455,204,340,242,0.51
-37,Dating,Long,Night,4418,410,531,208,0.92
-38,Loneliness,Short,Night,4696,649,419,222,0.92
-39,Loneliness,Long,Afternoon,966,42,673,43,0.67
-40,Friendship,Long,Morning,4589,697,991,104,0.71
-41,Mental Health,Long,Evening,2527,469,490,293,0.59
-42,Mental Health,Short,Evening,3131,479,1186,258,0.49
-43,Friendship,Short,Morning,397,384,1135,226,0.51
-44,Mental Health,Short,Evening,2130,31,853,27,0.74
-45,Career Stress,Short,Evening,3782,759,746,254,0.79
-46,Loneliness,Short,Morning,808,679,873,14,0.81
-47,Friendship,Short,Night,3472,47,70,250,0.81
-48,Loneliness,Short,Morning,1347,239,594,104,0.36
-49,Social Anxiety,Short,Night,4482,374,1168,294,0.62
-50,Career Stress,Short,Evening,3597,572,169,184,0.34
-51,Self Improvement,Long,Evening,2711,447,333,227,0.66
-52,Career Stress,Short,Evening,1994,785,589,254,0.59
-53,Friendship,Long,Afternoon,859,292,324,151,0.88
-54,Self Improvement,Long,Night,3011,36,701,100,0.53
-55,Social Anxiety,Long,Afternoon,1569,235,857,261,0.38
-56,Friendship,Short,Afternoon,2186,286,1097,8,0.39
-57,Dating,Short,Morning,346,618,1022,20,0.79
-58,Loneliness,Short,Afternoon,3419,293,463,284,0.7
-59,Social Anxiety,Short,Morning,3111,490,632,251,0.37
-60,Loneliness,Long,Morning,1934,462,1012,262,0.35
-61,Mental Health,Short,Afternoon,2043,668,283,164,0.76
-62,Dating,Short,Night,688,525,1096,156,0.35
-63,Dating,Short,Night,3176,556,1023,182,0.83
-64,Social Anxiety,Short,Night,2159,201,24,167,0.76
-65,Dating,Short,Night,2585,58,1146,37,0.35
-66,Self Improvement,Long,Night,3119,521,793,183,0.36
-67,Dating,Short,Afternoon,4936,26,896,105,0.94
-68,Loneliness,Long,Afternoon,2002,181,1011,272,0.54
-69,Loneliness,Short,Evening,4261,229,903,69,0.54
-70,Friendship,Long,Night,3569,167,66,172,0.83
-71,Loneliness,Short,Afternoon,462,486,886,47,0.92
-72,Friendship,Short,Evening,823,55,842,48,0.94
-73,Loneliness,Long,Night,1216,382,955,289,0.79
-74,Self Improvement,Long,Morning,3843,527,675,16,0.54
-75,Friendship,Long,Evening,2249,108,288,99,0.35
-76,Career Stress,Short,Afternoon,3923,754,389,257,0.81
-77,Mental Health,Long,Morning,4748,46,655,246,0.66
-78,Social Anxiety,Short,Morning,3308,289,1149,39,0.58
-79,Loneliness,Short,Morning,4290,358,676,219,0.89
-80,Dating,Long,Evening,2256,506,139,94,0.37
+1,Friendship,Long,Morning,2970,1326,1422,235,0.7
+2,Self Improvement,Long,Night,1469,435,509,89,0.7
+3,Self Improvement,Short,Night,3290,972,1855,408,0.51
+4,Loneliness,Long,Night,1297,514,369,204,0.76
+5,Self Improvement,Short,Evening,1269,210,509,110,0.53
+6,Dating,Short,Afternoon,3930,1999,879,496,0.51
+7,Social Anxiety,Long,Afternoon,3911,1353,1193,261,0.86
+8,Dating,Long,Afternoon,1697,728,468,82,0.71
+9,Social Anxiety,Long,Night,2543,872,973,357,0.79
+10,Self Improvement,Short,Morning,988,208,445,91,0.52
+11,Friendship,Short,Evening,2299,891,856,311,0.61
+12,Loneliness,Short,Morning,2316,672,808,211,0.61
+13,Mental Health,Short,Evening,3429,1297,953,356,0.51
+14,Mental Health,Short,Evening,1729,485,699,125,0.65
+15,Social Anxiety,Long,Morning,1252,330,463,123,0.7
+16,Self Improvement,Long,Evening,4076,1198,1526,400,0.84
+17,Loneliness,Long,Night,4298,1333,1596,520,0.73
+18,Social Anxiety,Short,Morning,4263,1493,1211,183,0.57
+19,Social Anxiety,Long,Morning,4270,1110,957,287,0.75
+20,Social Anxiety,Long,Morning,1879,565,832,150,0.73
+21,Social Anxiety,Short,Morning,891,260,351,141,0.52
+22,Dating,Short,Night,2669,1102,855,310,0.52
+23,Friendship,Long,Night,3203,912,1235,359,0.7
+24,Career Stress,Long,Night,3220,1180,1578,453,0.85
+25,Loneliness,Long,Evening,2407,646,767,125,0.73
+26,Social Anxiety,Long,Evening,4186,1168,1649,510,0.78
+27,Loneliness,Short,Afternoon,3350,1199,749,316,0.53
+28,Career Stress,Short,Night,1611,604,607,161,0.49
+29,Loneliness,Long,Night,1629,407,379,76,0.68
+30,Dating,Long,Afternoon,3729,1500,1004,248,0.73
+31,Loneliness,Long,Night,3960,1461,1608,227,0.75
+32,Friendship,Long,Afternoon,1292,373,478,100,0.74
+33,Social Anxiety,Long,Evening,2916,863,1233,312,0.83
+34,Social Anxiety,Long,Night,1228,568,579,67,0.88
+35,Social Anxiety,Long,Morning,1984,930,979,195,0.87
+36,Career Stress,Long,Afternoon,1700,775,829,237,0.89
+37,Dating,Short,Evening,2172,1084,655,237,0.55
+38,Self Improvement,Long,Evening,2502,684,1165,209,0.77
+39,Self Improvement,Long,Morning,2412,419,969,106,0.77
+40,Friendship,Short,Afternoon,982,394,377,119,0.48
+41,Loneliness,Long,Afternoon,3671,994,1127,243,0.85
+42,Friendship,Long,Afternoon,3026,914,794,175,0.68
+43,Dating,Long,Afternoon,2594,1125,600,173,0.7
+44,Mental Health,Short,Evening,4627,1002,1485,361,0.5
+45,Mental Health,Long,Morning,1990,745,862,228,0.77
+46,Self Improvement,Short,Evening,2590,715,1641,269,0.51
+47,Friendship,Short,Afternoon,2328,1004,1138,288,0.59
+48,Social Anxiety,Long,Afternoon,1827,638,564,93,0.74
+49,Dating,Short,Afternoon,2682,1361,712,366,0.67
+50,Loneliness,Long,Night,4142,1540,1639,251,0.84
+51,Career Stress,Short,Night,3441,1130,1475,277,0.55
+52,Self Improvement,Short,Afternoon,1006,318,499,126,0.55
+53,Career Stress,Short,Evening,4188,1099,1335,185,0.54
+54,Self Improvement,Short,Night,3979,1093,1858,472,0.5
+55,Social Anxiety,Short,Night,2241,979,1013,290,0.64
+56,Social Anxiety,Long,Morning,1008,367,391,67,0.69
+57,Self Improvement,Short,Evening,1251,395,541,112,0.57
+58,Self Improvement,Short,Evening,2015,538,833,231,0.63
+59,Self Improvement,Short,Afternoon,3318,965,1406,474,0.54
+60,Dating,Short,Night,2452,1604,962,178,0.64
+61,Dating,Short,Afternoon,2050,1077,791,384,0.57
+62,Social Anxiety,Long,Night,1868,744,871,244,0.78
+63,Loneliness,Long,Evening,1141,372,353,88,0.74
+64,Mental Health,Long,Night,2188,808,786,230,0.72
+65,Social Anxiety,Short,Night,3663,1345,1008,492,0.66
+66,Self Improvement,Short,Evening,4044,1132,1366,251,0.6
+67,Social Anxiety,Long,Evening,4382,1084,1030,420,0.73
+68,Friendship,Short,Evening,2908,803,1356,186,0.54
+69,Dating,Long,Night,1040,525,304,101,0.73
+70,Career Stress,Long,Evening,3507,1108,1020,257,0.69
