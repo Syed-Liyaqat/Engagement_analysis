@@ -46,10 +46,12 @@ for i in range(n):
         retention = 0.4 + 0.2 * np.random.rand()
 
     # Engagement boosts retention
-    engagement_factor = (shares + saves) / (likes + 1)
-    retention += 0.1 * engagement_factor
+    engagement_factor = (0.7*saves + 0.5*shares + 0.2*comments + 0.1*likes)/1000
 
-    retention = min(retention, 0.95)
+    retention = 0.3 + 0.5 * engagement_factor   # strong signal
+    retention += 0.01 * np.random.rand()         # small noise
+
+    retention = max(0.2,min(retention, 0.95))
 
     rows.append({
         "post_id": i+1,
@@ -64,4 +66,4 @@ for i in range(n):
     })
 
 df = pd.DataFrame(rows)
-df.to_csv("content_performance.csv", index=False)
+df.to_csv("data/content_performance.csv", index=False)
