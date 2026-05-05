@@ -3,16 +3,11 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
-st.markdown("""
-<style>
-[data-testid="stMultiSelect"] [data-baseweb="select"] > div:first-child {
-    max-height: none !important;
-    height: auto !important;
-}
-</style>
-""", unsafe_allow_html=True)
+
 st.title("Social Engagement Analytics Dashboard")
 st.markdown("Data-Driven insights for content strategy")
+st.markdown("Deliverable #1 - Interactive Dashboard with Streamlit")
+
 
 df = pd.read_csv("data/content_performance.csv")
 comments = pd.read_csv("data/comments.csv")
@@ -38,7 +33,7 @@ col3.metric("Top Topic", filtered.groupby("topic")["virality_coeff"].mean().idxm
 st.subheader("Topic vs Virality Score")
 fig1, ax1 = plt.subplots()
 sns.barplot(data=filtered, x="topic", y="virality_coeff", ax=ax1)
-ax1.set_xticklabels(ax1.get_xticklabels(), rotation=45)
+ax1.tick_params(axis='x', rotation=45)
 st.pyplot(fig1)
 
 # chart 2

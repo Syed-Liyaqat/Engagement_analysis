@@ -1,3 +1,5 @@
+#DELIVERABLE #2.2
+
 import pandas as pd
 import numpy as np
 
@@ -14,7 +16,7 @@ relatable_comments = [
 neutral_comments = [
     "interesting", "ok", "good content", "nice", "cool video",
     "thanks for sharing", "informative", "okay but why",
-    "first", "👍"
+    "first", "more please"
 ]
 
 rows = []
@@ -29,4 +31,4 @@ for post_id in range(1, 81):
 
 df = pd.DataFrame(rows)
 df.to_csv("comments.csv", index=False)
-print("Done!", len(df), "comments")
+print("done", len(df), "comments made")
