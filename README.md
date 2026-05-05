@@ -56,7 +56,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Contact
 
-For questions or suggestions, please open an issue or contact the repository owner.
+For questions or suggestions, please open an issue.
 
 ---
 
